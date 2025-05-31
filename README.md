@@ -62,6 +62,20 @@ Built with PHP, MySQL, and modern web technologies.
 ├── index.php           # Portal selection
 └── README.md           # This file
 ```
+## 🎮 How to Use / Run Instructions
+You can access the live deployed application here: http://143.198.202.168
+
+On the portal selection page, choose the portal you want to use.
+
+Admin Login Credentials:
+
+Username: admin
+
+Password: Admin@123
+
+Use the admin portal to add, edit, or delete items.
+
+The user portal is open without login to view items in real time.
 
 ## 🎨 Screenshots
 
